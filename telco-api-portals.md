@@ -52,6 +52,10 @@
 - https://digital.swisscom.com/catalog 21 APIs
 - https://developer.swisscom.com/ seems to be discontinued
 
+## T-Mobile NL
+- Netherlands
+- https://capi.t-mobile.nl/
+
 ## T-Mobile US
 - https://developer.t-mobile.com/
 
