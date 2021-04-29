@@ -7,12 +7,9 @@
 - https://www.apigate.com/
 
 ### BT
-
 - https://developer.bt.com/
 
-
 ### EE
-
 - https://developer.ee.co.uk/prod-board
 
 ### Jio
@@ -29,7 +26,6 @@
 - https://momoapi.mtn.com/
 
 ### NTT
-
 - https://developer.ntt.com/en
 
 ### Orange
@@ -44,18 +40,15 @@
 ### Sangoma
 - UCC provider: https://carrierservices.sangoma.com/
 
-
 ### SK
 - https://openapi.sk.com/
 
 ### Swisscom
-
 - https://opendata.swisscom.com/explore/?sort=modified
 - https://digital.swisscom.com/catalog 21 APIs
 - https://developer.swisscom.com/ seems to be discontinued
 
 ### T-Mobile US
-
 - https://developer.t-mobile.com/
 
 ### Telefonica
@@ -65,11 +58,9 @@
 - https://developer.telenor.no/ 20+ APIs
 
 ### Telstra
-
 - https://dev.telstra.com/apis
 
 ### Tenios
-
 - VoIP Provider: https://www.tenios.de/voice-api
 
 ### Verizon
