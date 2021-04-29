@@ -9,6 +9,10 @@
 ## BT
 - https://developer.bt.com/
 
+## Dialog
+- Sri Lanka
+- http://ideamart.lk/ 
+
 ## EE
 - https://developer.ee.co.uk/prod-board
 
