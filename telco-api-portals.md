@@ -11,6 +11,7 @@
 
 ## Deutsche Telekom
 - https://developer.telekom.de/catalog
+- https://developer.telekom.com/products
 
 ## Dialog
 - Sri Lanka
