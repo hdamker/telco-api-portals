@@ -9,6 +9,9 @@
 ## BT
 - https://developer.bt.com/
 
+## Deutsche Telekom
+- https://developer.telekom.de/catalog
+
 ## Dialog
 - Sri Lanka
 - http://ideamart.lk/ 
