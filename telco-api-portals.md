@@ -1,69 +1,69 @@
 # List of telco API portals
 
-### AT&T
+## AT&T
 - https://developer.att.com/products
 
-### Axiata
+## Axiata
 - https://www.apigate.com/
 
-### BT
+## BT
 - https://developer.bt.com/
 
-### EE
+## EE
 - https://developer.ee.co.uk/prod-board
 
-### Jio
+## Jio
 - https://developer.jio.com (SDKs)
 
-### KDDI
+## KDDI
 - https://iot.kddi.com/services/
 
-### kpn
+## kpn
 - https://developer.kpn.com/
 
-### MTN
+## MTN
 - https://developers.mtn.com/
 - https://momoapi.mtn.com/
 
-### NTT
+## NTT
 - https://developer.ntt.com/en
 
-### Orange
+## Orange
 - https://developer.orange.com/products/
 
-### Proximus
+## Proximus
 - https://proximusapi.enco.io/
 
-### Rakuten
+## Rakuten
 - https://api.rakuten.net/
 
-### Sangoma
+## Sangoma
 - UCC provider: https://carrierservices.sangoma.com/
 
-### SK
+## SK
 - https://openapi.sk.com/
 
-### Swisscom
+## Swisscom
 - https://opendata.swisscom.com/explore/?sort=modified
 - https://digital.swisscom.com/catalog 21 APIs
 - https://developer.swisscom.com/ seems to be discontinued
 
-### T-Mobile US
+## T-Mobile US
 - https://developer.t-mobile.com/
 
-### Telefonica
+## Telefonica
 - Spain: https://api.dev.telefonica.es/
 
-### Telenor
+## Telenor
 - https://developer.telenor.no/ 20+ APIs
 
-### Telstra
+## Telstra
 - https://dev.telstra.com/apis
 
-### Tenios
+## Tenios
 - VoIP Provider: https://www.tenios.de/voice-api
 
-### Verizon
+## Verizon
 - https://www.verizonconnect.com/services/api-integration/
 - https://digitalconnect.verizon.com/
 - https://m2mdeveloper.verizon.com/docs/ts-docs-wns/src/WNS.html
