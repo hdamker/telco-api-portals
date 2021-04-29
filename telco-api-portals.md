@@ -25,6 +25,7 @@
 
 ## KDDI
 - https://iot.kddi.com/services/
+- https://cloudapi.kddi-web.com/
 
 ## kpn
 - https://developer.kpn.com/
