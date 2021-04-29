@@ -1,7 +1,7 @@
 # List of telco API portals
 
 ## AT&T
-- https://developer.att.com/products
+- https://developer.att.com/
 
 ## Axiata
 - https://www.apigate.com/
