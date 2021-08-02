@@ -64,6 +64,7 @@
 
 ## T-Mobile US
 - https://developer.t-mobile.com/
+- https://apimarketplace.t-mobile.com/
 
 ## Telefonica
 - Spain: https://api.dev.telefonica.es/
