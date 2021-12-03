@@ -78,6 +78,10 @@
 ## Tenios
 - VoIP Provider: https://www.tenios.de/voice-api
 
+## Virtual1
+- UK wholesale operator
+- https://api.virtual1.com/docs/
+
 ## Verizon
 - https://www.verizonconnect.com/services/api-integration/
 - https://digitalconnect.verizon.com/
