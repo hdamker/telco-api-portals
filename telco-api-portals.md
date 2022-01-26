@@ -84,6 +84,9 @@
 - https://m2mdeveloper.verizon.com/docs/ts-docs-wns/src/WNS.html
 - https://thingspace.verizon.com/resources/
 
+## Vimla
+- https://api-docs.vimla.se/
+
 ## Virtual1
 - UK wholesale operator
 - https://api.virtual1.com/docs/
