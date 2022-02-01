@@ -66,6 +66,9 @@
 - https://developer.t-mobile.com/
 - https://apimarketplace.t-mobile.com/
 
+## Tata Communications
+- https://developer.tatacommunications.com
+
 ## Telefonica
 - Spain: https://api.dev.telefonica.es/
 
