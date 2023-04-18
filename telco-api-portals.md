@@ -89,6 +89,7 @@
 - https://digitalconnect.verizon.com/
 - https://m2mdeveloper.verizon.com/docs/ts-docs-wns/src/WNS.html
 - https://thingspace.verizon.com/resources/
+- https://www.verizon.com/business/5g-edge-portal/api-documentation.html#/http/quick-start/getting-started-with-the-verizon-api
 
 ## Vimla
 - https://api-docs.vimla.se/
