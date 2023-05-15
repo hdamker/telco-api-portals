@@ -74,6 +74,7 @@
 
 ## Telefonica
 - Spain: https://api.dev.telefonica.es/
+- Open Gateway: https://opengateway.telefonica.com/en/our-solutions
 
 ## Telenor
 - https://developer.telenor.no/ 20+ APIs
